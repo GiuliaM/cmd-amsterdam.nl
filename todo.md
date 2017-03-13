@@ -69,6 +69,7 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   [Combine Your Background Images into Image Sprites] (https://hostingfacts.com/how-to-speed-up-your-website/#14) — reducing requests
 
 ### Perceived Performance
 
