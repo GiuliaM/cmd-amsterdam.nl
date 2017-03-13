@@ -6,6 +6,7 @@
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 *   Store PDF files on https://aws.amazon.com/s3/
+*   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1) 
 
 ## HTTP optimisation
 
